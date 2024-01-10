@@ -1,2 +1,2 @@
-# auto_tests_course
-homework for the course
+# auto tests for homework
+
