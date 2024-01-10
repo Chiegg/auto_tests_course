@@ -1,3 +1,3 @@
 # auto tests for homework
-Course tests
+Git repository for course of autotests
 
